@@ -10,8 +10,19 @@ Títulos Públicos - Tesouro Selic tem retorno de 13,75% (21/07/23) ao ano e por
 Ações de empresas - Tem retornos em média de 10% ao ano, porém possuem grandes flutuações, mudanças de preços que variam pelo cenário econômico e da própria empresa, e cada ação tem seus retornos proporcionais aos seus riscos!
 
 Taxa de retorno
-Exemplo: as do banco do Brasil ( )
-Vamos sopor que compramos uma ação no inicio do ano por 21 reais e no final do ano essa mesma ação passou a custar 27 reais.
+Exemplo: ações do banco do Brasil
+Vamos sopor que compramos uma ação no inicio do ano por 21 reais e no final do ano essa mesma ação passou a custar 27 reais. 
+
+Ou seja, houve um lucro de 6 reais. Se tivéssemos comprado 100 ações, esse lucro seria um lucro significativo.
+Bom mais afinal como saber se escolhemos a ação que mais se valorizou? É comparando outras ações do mesmo setor e no mesmo período.
+
+O cálculo seria:
+*ações banco do Brasil
+taxa de retorno= preço final — preço inicial / preço inicial
+taxa de retorno= 27 – 21 / 21
+Este cálculo nos revela a taxa de retorno simples em porcentagem.
+
+Existe
 
 
 
