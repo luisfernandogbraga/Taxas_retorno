@@ -17,12 +17,22 @@ Ou seja, houve um lucro de 6 reais. Se tivéssemos comprado 100 ações, esse lu
 Bom mais afinal, como saber se escolhemos a ação que mais se valorizou nesse período? É comparando outras ações do mesmo setor e no mesmo período.
 
 O cálculo seria:
-*ações banco do Brasil
-taxa de retorno= preço final — preço inicial / preço inicial
-taxa de retorno= 27 – 21 / 21
-Este cálculo nos revela a taxa de retorno simples em porcentagem.
+1 reunir as ações do mesmo setor que desejo analisar
+2 normalizar os dados para que eles começem de um mesmo ponto, que seria : preço inicial / preço final * 100
 
-Existe
+Taxa de Retorno da Carteira
+1 calcular a taxa de retorno diário. ex : preço final / preço inicial - 1 obs: o primeiro valor nunca vai aparecer.
+2 criar os peso de que cada ação vai ter. obs: o peso de cada ação é relacionado a quando vc tem investido em cada ação.
+3 calcular o retorno anual. ex: retorno medio *250. 250 é o número de dias num ano.
+4 achar a rentabilidade da carteira.
+
+Biblioteca usadas
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import yfinance as yf
+
+
 
 
 
